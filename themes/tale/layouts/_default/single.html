@@ -2,9 +2,9 @@
 
 <main>
 	<div class="post">
-		{{ partial "single/post-info.html" . }}
 		{{ partial "single/title.html" . }}
-
+		{{ partial "single/post-info.html" . }}
+		<div class="post-line"></div>
 		{{ partial "single/header.html" . }}
 
 		{{ .Content }}

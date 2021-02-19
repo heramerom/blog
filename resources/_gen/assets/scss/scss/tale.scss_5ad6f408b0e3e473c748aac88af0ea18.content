@@ -110,7 +110,7 @@ pre code {
   .post-line {
     border-top: 0.1rem solid #aaa;
     display: block;
-    margin: 0 auto 3rem;
+    margin: 0 auto 2rem;
     width: 10rem; }
   .post p {
     margin: 0 0 1rem;
@@ -499,7 +499,8 @@ footer {
 .catalogue-time {
   color: #aaa;
   font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", "Georgia", serif;
-  letter-spacing: .5px; }
+  letter-spacing: .5px;
+  font-size: .7rem; }
 
 .catalogue-title {
   color: #353535;
@@ -513,7 +514,7 @@ footer {
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
-  border-top: 0.1rem solid #353535;
+  border-top: 0.1rem solid #aaa;
   display: block;
   width: 2rem; }
 
