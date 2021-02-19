@@ -1,0 +1,6 @@
+baseURL = "http://alexsel.net/"
+languageCode = "zh-CN"
+title = "黑风寨"
+theme = "tale"
+summaryLength = 128
+hasCJKLanguage = true
